@@ -1,7 +1,7 @@
 import torch
 from torch.autograd import Variable
-from torch.nn as nn
-from torch.otpim as optim
+import torch.nn as nn
+import torch.otpim as optim
 import time
 import pandas as pd
 import numpy as np
